@@ -1,5 +1,5 @@
-# 🧪 LLM_Response_with_Image_Reference
-LLM will response with images not just text for enhnaced experience
+# 🧪 GPT_business_Specific_Knowledge
+GPT with specific business knowledge to help grow and improve business 
 
 *****
 **🌍 Automation_Process **
@@ -11,7 +11,7 @@ LLM will response with images not just text for enhnaced experience
 6. No code alternatives
 
 *****
-![](Images\Capture.PNG)
+![](Images/Capture.PNG)
 ![](Images/1zydD2GKzjpEyvL-d_cP0vA.png)
 
 ## 🌐 How to run?
